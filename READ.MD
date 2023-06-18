@@ -3,7 +3,6 @@
 ```
 npm install
 ```
-
 Напишите свои сид фразы в [mnemonics.txt](src%2Fmnemonics.txt)
 ## запуск
 ```
